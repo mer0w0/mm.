@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: math
+    name: catlove
     env: docker
     plan: free
